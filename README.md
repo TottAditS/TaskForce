@@ -4,7 +4,7 @@
 <h1>TaskForce</h1>
 
 <h3>About This Project</h3>
-This project was developed to test the capabilities of Unity Engine’s physics system, including parameters such as drag, angular drag, force application, and mathematical functions from the Mathf library. Using an aircraft as the test object was an ideal solution to explore these physics features in a dynamic and controlled environment.
+<p align="justify">This project was developed to test the capabilities of Unity Engine’s physics system, including parameters such as drag, angular drag, force application, and mathematical functions from the Mathf library. Using an aircraft as the test object was an ideal solution to explore these physics features in a dynamic and controlled environment.</p>
 
 <h3>Project Info</h3>
 
