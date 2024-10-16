@@ -31,9 +31,6 @@
 <h3>Advanced URP PostProcessing (Technical Programmer)</h3>
 <p align="justify">This feature involves the implementation of enhanced post-processing effects using Unity’s Universal Render Pipeline (URP). The focus was on achieving high-quality visual aesthetics through improved lighting, bloom, and color grading, all while maintaining optimal performance.</p>
 
-<h3>Simple Scriptable Objects</h3>
-<p align="justify">Scriptable Objects were used to streamline data management, enabling efficient handling of configuration files and game settings. This approach allowed for modular and scalable game design, making it easier to iterate on various aspects of the game.</p>
-
 <h3>What I Learned From Make This Game</h3>
 <p align="justify">Through the development of this game, I gained a deeper understanding of Unity’s physics system, refined my skills in post-processing with URP, and enhanced my knowledge of data-driven design using Scriptable Objects. These experiences have contributed to my ability to build more complex and visually polished game projects.</p>
 
