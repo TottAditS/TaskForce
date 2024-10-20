@@ -34,6 +34,16 @@
 <h3>What I Learned From Make This Game</h3>
 <p align="justify">Through the development of this game, I gained a deeper understanding of Unity’s physics system, refined my skills in post-processing with URP, and enhanced my knowledge of data-driven design using Scriptable Objects. These experiences have contributed to my ability to build more complex and visually polished game projects.</p>
 
+## 📜 Scripts
+
+|  Script       | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| `PlaneController.cs` | Responsible for how the player control the Plane. For now its not yet dynamic. |
+| `AudioManager.cs`  | Manages all Audio Source in the game |
+| `ShipController.cs`  | Responsible for how the player control the Ship. For now its not yet dynamic. |
+| `MainMenuScript.cs`  | Manages the logic behind Main Menu UI Functionality. |
+| `etc`  |
+
 ## Files description
 
 ```
